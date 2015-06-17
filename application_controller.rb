@@ -8,4 +8,8 @@ class ApplicationController < Sinatra::Base
     erb :index
   end
   
+  get '/results' do
+    erb :results
+  end
+  
 end

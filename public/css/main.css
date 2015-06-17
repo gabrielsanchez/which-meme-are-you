@@ -8,3 +8,8 @@ h1{
   align: center;
   font-size: 320%;
 }
+
+img.resize{
+ width: 200px;
+ height: auto;
+} 
